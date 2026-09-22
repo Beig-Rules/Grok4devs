@@ -1,0 +1,28 @@
+{
+  "name": "@beig-rules/grok4devs",
+  "version": "1.0.0",
+  "description": "Grok4devs — senior agent lifecycle skills for AI coding agents",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beig-Rules/Grok4devs.git"
+  },
+  "keywords": [
+    "grok",
+    "agent-skills",
+    "spec-driven",
+    "tdd",
+    "code-review",
+    "beig-rules"
+  ],
+  "files": [
+    "skills/**/*",
+    "README.md",
+    "LICENSE",
+    "NOTICE.md"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  }
+}
